@@ -45,7 +45,7 @@ body{
 .head-fit{
     display:flex;
     align-items:center;
-    justify-content:center;
+    justify-content:space-evenly;
     flex-direction: row;
     background-color: #17023a;
     color: #fff;
@@ -125,7 +125,7 @@ nav .image{
     width: 100vw;
     justify-content: center;
     position: relative;
-    top: 400px;
+  
     
 }
 
