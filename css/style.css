@@ -93,6 +93,11 @@ nav .image{
     margin: 10px;
 
 }
+.image-2{
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+}
  nav ul{
     list-style: none;
     display: flex;
