@@ -1,0 +1,30 @@
+.btn {
+    color: black;
+    background-color: #fff;
+    width: 400px;
+    height: 50px;
+    position: relative;
+    font-size:large;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 30px;
+    left: 650px;
+
+}
+.btn_2 {
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0);
+    width: 400px;
+    height: 50px;
+    position: relative;
+    font-size:large;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 30px ;
+    right: 450px;
+    border: #fff 2px solid;
+}
+.btn_2 :hover{
+    background-color: #fff;
+    color: black;
+}
